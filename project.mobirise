@@ -57,9 +57,25 @@
     "screenshot": "screenshot.png",
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
-    "mbrsiteDomain": "x1jk96vhdx",
+    "mbrsiteDomain": "n27jjaxzlo",
     "mcSmartCart": {
       "currency": "USD"
+    },
+    "chatbutton": {
+      "phone": "919880506766",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi there! Do you have a question?\nWe will answer it asap.",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#39847a",
+      "headerTitle": "Have a question?",
+      "placeholder": " ",
+      "zIndex": 10,
+      "enabled": true
     }
   },
   "pages": {
@@ -655,24 +671,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_cid": "tmSYYx1DM0",
-          "_anchor": "eb-chats-widget-40",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -1194,25 +1192,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-4d",
-          "_isUserblock": true,
-          "_cid": "tmT0fW9eH0",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -2136,25 +2115,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-4c",
-          "_isUserblock": true,
-          "_cid": "tmT0e3itcM",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -2726,25 +2686,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-4b",
-          "_isUserblock": true,
-          "_cid": "tmT0cjq8qk",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -3247,25 +3188,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-49",
-          "_isUserblock": true,
-          "_cid": "tmT08JrdJL",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -3893,11 +3815,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"services2\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\">\n        <!---->\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle 2\" name=\"showSubtitle2\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <select title=\"Align Buttons:\" name=\"alignBtn\" condition=\"showButtons\">\n            <option value=\"1\" selected>Left</option>\n            <option value=\"2\">Center</option>\n            <option value=\"3\">Right</option>\n        </select>\n        <!---->\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"reverseContent\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"20\" max=\"80\" step=\"5\" value=\"50\">\n        <!---->\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <!---->\n    <!--Overlay-->\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <!--Container-->\n    <div class=\"container\">\n        <div class=\"col-md-12\">\n            <div class=\"media-container-row\">\n                <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/offer.jpg\" alt=\"Limited Time Offer\">\n                </div>\n                <div class=\"align-left aside-content\">\n                    <h2 class=\"mbr-title pt-2 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                        Special discounted price</h2>\n                    <div class=\"mbr-section-text\">\n                        <p class=\"mbr-text text1 pt-2 mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".text1\">\n                            We have an offer on currently, but it would not last long.</p>\n                        <p class=\"mbr-text text2 pt-4 mbr-light mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle2\" data-app-selector=\".text2, .mbr-section-btn\">\n                            ₹3,599&nbsp;<span class=\"cost\">4,269</span></p>\n                    </div>\n                    <!--Btn-->\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn pt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-class=\"{'align-left' : alignBtn == 1, 'align-center' : alignBtn == 2, 'align-right' : alignBtn == 3}\">\n                        <a href=\"https://mobiri.se\" class=\"btn btn-warning-outline\">\n                            Buy Now\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "tmT2jEiPkO",
+          "_anchor": "services2-4i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "services2-4i"
+          "_params": {}
         },
         {
           "alias": false,
@@ -3989,11 +3911,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"counters4 counters\" group=\"Counters\" plugins=\"ViewportChecker\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Block Title\" name=\"showTitles\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Media\" name=\"showMedia\" checked>\n        <input type=\"range\" title=\"Media Size\" inline name=\"mediaSize\" min=\"20\" max=\"60\" value=\"49\" condition=\"showMedia\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" condition=\"showMedia\" checked>\n        <select title=\"Cards Count\" name=\"cardsAmount\">\n           <option value=\"1\">1</option>\n           <option value=\"2\">2</option>\n           <option value=\"3\" selected>3</option>\n           <option value=\"4\">4</option>\n        </select>\n        <input type=\"range\" inline title=\"Number Size\" name=\"numberSize\" min=\"10\" max=\"50\" step=\"1\" value=\"32\">\n        <input type=\"color\" title=\"Border Color\" name=\"bordersColor\" value=\"#efefef\">\n        <input type=\"checkbox\" title=\"Show Borders\" name=\"showBorders\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n           <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n           <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n           <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cccccc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container pt-4 mt-2\">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Special, Deal for first 100 Customers:</h2>\n        <h3 class=\"mbr-section-subtitle pb-5 align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Responsive block with counters and media. \n        </h3>\n        <div mbr-class=\"{'media-container-row': showMedia,\n                         'row justify-content-center': !showTitle && !showSubtitle && !showMedia}\">\n            <div class=\"media-block m-auto\" mbr-style=\"{'width': mediaSize + '%'}\" mbr-if=\"showMedia\">\n                <div class=\"mbr-figure\">\n                    <img src=\"@PROJECT_PATH@/assets/images/first-100.jpg\" alt=\"First 100\">\n                </div>\n            </div>\n            <div class=\"cards-block\">\n                <div class=\"cards-container\">\n                    <div class=\"card px-3 align-left col-12\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    1\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">Additional free 1 Year Cloud Subscription</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    You get an additional 1 year free access to our Cloud server.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>1\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    2\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">Additional 1 year free warranty</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    You get additional 1 Year warranty on this product.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>2\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    3\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">Flat 10% OFF</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                        You get Flat 10% Off on the listed price.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>3\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    4\n                                </h3>\n                            </div>\n                            <div class=\"card-texts\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    We Are Passionate\n                                </h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "tmT3xgmw5v",
+          "_anchor": "counters4-4j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "counters4-4j"
+          "_params": {}
         },
         {
           "alias": false,
@@ -4015,25 +3937,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-41",
-          "_isUserblock": true,
-          "_cid": "tmSZSLWcHV",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -4786,25 +4689,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-42",
-          "_isUserblock": true,
-          "_cid": "tmSZVaYGUs",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -5556,25 +5440,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-43",
-          "_isUserblock": true,
-          "_cid": "tmSZX4eFh6",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -6294,25 +6159,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-44",
-          "_isUserblock": true,
-          "_cid": "tmSZZ6Xjmr",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -7053,7 +6899,7 @@
           },
           "_name": "video3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=OTa9QbfzvSM?loop=1&autoplay=1&loop=1\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=bhf_t8kQ_94&loop=1&autoplay=1\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_anchor": "video3-2p",
           "_isUserblock": true,
           "_cid": "tkY2beF1Gb",
@@ -7358,25 +7204,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-48",
-          "_isUserblock": true,
-          "_cid": "tmT06EUWXR",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -8187,25 +8014,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-47",
-          "_isUserblock": true,
-          "_cid": "tmT04UJMww",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
@@ -9099,25 +8907,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-46",
-          "_isUserblock": true,
-          "_cid": "tmT03c30Ch",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -9890,25 +9679,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-45",
-          "_isUserblock": true,
-          "_cid": "tmT01iWVgy",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -10470,25 +10240,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-4a",
-          "_isUserblock": true,
-          "_cid": "tmT0aDDNXB",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
-          "_params": {}
         }
       ]
     },
@@ -11011,25 +10762,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        },
-        {
-          "alias": "eb-chats-widget",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-chats-widget",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"elb-widgets eb-chats-widget\" group=\"Chat\" once=\"chat\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"popupChatsPlaceholder\">        <style>            .popupChatsPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>POPUP CHAT WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-chats-widget/assets/posts.jpg\">    </div></div></section>",
-          "_anchor": "eb-chats-widget-4e",
-          "_isUserblock": true,
-          "_cid": "tmT0iD90oo",
-          "safe": {
-            "id": 6781,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx7BV\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": "chat",
           "_params": {}
         }
       ]
