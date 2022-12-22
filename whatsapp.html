@@ -88,8 +88,8 @@
     <div class="container">
         <script language="Javascript">
             function getPhoneNumber() {
-                var number = prompt("Enter the Mobile number with Country Code.");
-                number = 'http://wa.me/' + number;
+                var number = prompt("Enter the 10 digit Mobile number.");
+                number = 'http://wa.me/' + number.replace(" ","").replace("-","");
                 window.location.replace(number);
             }
         </script>

@@ -14126,7 +14126,7 @@
           "_anchor": "header16-5n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script language=\"Javascript\">\n            function getPhoneNumber() {\n                var number = prompt(\"Enter the 10 digit Mobile number.\");\n                number = 'http://wa.me/91' + number;\n                window.location.replace(number);\n            }\n        </script>"
+            "<script language=\"Javascript\">\n            function getPhoneNumber() {\n                var number = prompt(\"Enter the 10 digit Mobile number.\");\n                number = 'http://wa.me/' + number.replace(\" \",\"\").replace(\"-\",\"\");\n                window.location.replace(number);\n            }\n        </script>"
           ],
           "_protectedParams": [],
           "_global": false,
