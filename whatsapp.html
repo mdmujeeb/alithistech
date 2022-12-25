@@ -88,7 +88,7 @@
     <div class="container">
         <script language="Javascript">
             function getPhoneNumber() {
-                var number = prompt("Enter the 10 digit Mobile number.");
+                var number = prompt("Enter the Mobile number with Country Code.");
                 number = 'http://wa.me/' + number.replace(" ","").replace("-","");
                 window.location.replace(number);
             }
@@ -98,7 +98,7 @@
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">WhatsApp Link Generator</h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                    This Webpage takes a 10 Digit Mobile number, and then opens a WhatsApp chat to that number.
+                    This Webpage takes a a Mobile number with Country Code, and then opens a WhatsApp chat to that number.
                 </p>
                 <div class="mbr-section-btn"><a class="btn btn-md btn-black-outline display-4" onclick="getPhoneNumber()">GO</a></div>
             </div>
