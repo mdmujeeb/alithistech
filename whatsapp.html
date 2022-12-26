@@ -89,7 +89,7 @@
         <script language="Javascript">
             function getPhoneNumber() {
                 var number = prompt("Enter the Mobile number with Country Code.");
-                number = 'http://wa.me/' + number.replace(" ","").replace("-","");
+                number = 'http://wa.me/' + number.replaceAll(" ","").replaceAll("-","");
                 window.location.replace(number);
             }
         </script>
