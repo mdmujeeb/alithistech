@@ -3461,23 +3461,36 @@ section.lazy-placeholder:after {
 .cid-tkIuOPD5yf .mbr-section-subtitle {
   color: #767676;
 }
-.cid-tkIuPjJa7F {
-  padding-top: 0px;
+.cid-tzjebFaknz {
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-tkIuPjJa7F .mbr-text {
+.cid-tzjebFaknz .mbr-text {
   color: #767676;
 }
-.cid-tkIuPjJa7F h4 {
+.cid-tzjebFaknz h4 {
   text-align: center;
 }
-.cid-tkIuPjJa7F p {
+.cid-tzjebFaknz p {
   text-align: center;
 }
-.cid-tkIuPjJa7F .card-img span {
+.cid-tzjebFaknz .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-tzjeoCvLH4 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-tzjeoCvLH4 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tzjeoCvLH4 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-tmT2jEiPkO {
   padding-top: 90px;
@@ -4126,6 +4139,19 @@ section.lazy-placeholder:after {
   font-size: 96px;
   color: #149dcc;
 }
+.cid-tzjeWUE16u {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-tzjeWUE16u .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tzjeWUE16u .video-block {
+    width: 100% !important;
+  }
+}
 .cid-tmT6akWfgv {
   padding-top: 90px;
   padding-bottom: 45px;
@@ -4772,6 +4798,19 @@ section.lazy-placeholder:after {
 .cid-tkIzaHuOOa .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-tzjfAfQqph {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-tzjfAfQqph .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tzjfAfQqph .video-block {
+    width: 100% !important;
+  }
 }
 .cid-tmT6FOmWCL {
   padding-top: 90px;
@@ -6217,6 +6256,19 @@ section.lazy-placeholder:after {
 }
 .cid-tkY1K55WaC P {
   color: #767676;
+}
+.cid-tzjfSuou5L {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-tzjfSuou5L .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-tzjfSuou5L .video-block {
+    width: 100% !important;
+  }
 }
 .cid-tkY2q69CQY {
   padding-top: 60px;
